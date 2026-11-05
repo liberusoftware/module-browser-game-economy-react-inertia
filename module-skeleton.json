@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-economy-react-inertia",
+  "capabilityKey": "liberusoftware/module-browser-game-economy",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-browser-game-economy-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/browser-game/nextjs/economy.md",
+  "presentationPlan": "projects/browser-game/react/economy.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
